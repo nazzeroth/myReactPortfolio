@@ -5,6 +5,8 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     padding-bottom: 70px;
+    box-shadow: 
+        inset 0px -11px 8px -10px #CCC; 
 }
 
 .div-personal-bottom > div {

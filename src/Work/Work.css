@@ -2,6 +2,9 @@
     background-color: #e5e5e5;
     max-width: auto;
     height: auto;
+    box-shadow: 
+        inset 0px 11px 8px -10px #CCC,
+        inset 0px -11px 8px -10px #CCC; 
 }
 
 .work-title {
