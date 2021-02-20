@@ -1,0 +1,18 @@
+.div-personal-bottom {
+    background-color: #e5e5e5;
+    max-width: auto;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-bottom: 70px;
+}
+
+.div-personal-bottom > div {
+  text-align: center;
+  font-size: 1.3rem;
+  padding: 10px 50px 20px 50px;
+}
+
+.icon {
+    color: #fca311;
+}

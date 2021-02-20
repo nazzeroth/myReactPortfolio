@@ -1,5 +1,21 @@
 .personal-center {
-    background-color: #656565;
+    background-color: #e5e5e5;
     max-width: auto;
-    height: 1000px;
+    height: auto;
+    text-align: center;
+    font-weight: 1.5;
+    font-size: 1.3rem;
+    padding-top: 5em;
+    padding-left: 20em;
+    padding-right: 20em;
+    padding-bottom: 7em;
+    line-height: 1.5;
+}
+
+h1 {
+    padding-bottom: 1.5em;
+}
+
+h3 {
+    color: #fca311 ;
 }
