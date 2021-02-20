@@ -1,0 +1,13 @@
+.center-self {
+    width: 210px;
+    height: 250px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    border: 10px solid white;
+}
+
+.div-size {
+    height: 30px;
+    background-color: brown;
+}
