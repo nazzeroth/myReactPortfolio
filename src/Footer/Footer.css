@@ -11,3 +11,7 @@
     color: #fca311;
     padding: 0 10px;
 }
+
+.footer-icon:hover {
+    color:white;
+}
