@@ -4,7 +4,7 @@ import Self from "./self.jpg";
 
 const Selfpicture =()=> {
     return (<div className="div-size">
-    <img src={Self} className="center-self"></img>
+    <img src={Self} className="center-self float-picture"></img>
     </div>)
 }
 

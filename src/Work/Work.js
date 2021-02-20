@@ -5,7 +5,7 @@ const Work =()=> {
     return (<div className="div-work">
     <h1 className="work-title">Tanulmányok  -  Munkahelyek</h1>
     <div className="grid">
-    <div><span className="grid-title">Iskola</span></div>
+    <div><span className="grid-title">Tanulmányok</span></div>
     <div></div>
     <div><span className="grid-title">Munahelyek</span></div>
     </div>
@@ -112,8 +112,8 @@ megtervezése. </p>
 
     <div className="grid">
         <div className="grid-name">
-            <span>Multimédia fejlesztő OKJ</span>
-            <p className="date-underline">2007-2008</p>
+            <p className="date-underline">Multimédia fejlesztő OKJ</p>
+            <p>2007-2008</p>
         </div>
         <div className="grid-leiras">
             <p className="leiras-line">
