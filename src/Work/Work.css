@@ -1,0 +1,52 @@
+.div-work {
+    background-color: #e5e5e5;
+    max-width: auto;
+    height: auto;
+}
+
+.work-title {
+    padding-top:60px;
+    margin: 0;
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding-bottom: 40px;
+}
+
+.grid > div {
+    text-align: center;
+    font-size: 1.3rem;
+  }
+
+  .grid-title {
+      padding: 10px 20px 10px 20px;
+      border:3px solid #fca311;
+      color:#fca311;
+      text-align: center;
+      box-shadow: 0 3px 3px rgba(0,0,0,0.2);
+  }
+
+  .grid-name{
+      text-align: left !important;
+      padding-left: 100px;
+      /*padding-right: 50px;*/
+  }
+
+  .grid-leiras {
+    text-align: left !important;
+    padding-right: 100px;
+    
+  }
+
+  .date-underline {
+    padding-bottom: 10px;
+    border-bottom: 3px solid black;
+  }
+
+  .leiras-line {
+    border-left: 3px solid black;
+    padding-left: 20px;
+  }
