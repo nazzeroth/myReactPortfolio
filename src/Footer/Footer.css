@@ -15,3 +15,15 @@
 .footer-icon:hover {
     color:white;
 }
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+
+  .email {
+      color: #fca311;
+      text-decoration: none;
+  }
