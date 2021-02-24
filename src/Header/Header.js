@@ -1,8 +1,10 @@
 import React from "react";
 import headerPicture from "./headerPicture2.jpg";
 import "./Header.css";
+import ScrollAnimation from 'react-animate-on-scroll';
 
-const Header =()=> {
+class Header extends React.Component {
+    render() {
     return (<div className="div-header">
     <img src={headerPicture} className="center-img"></img>
     <div>
@@ -10,6 +12,7 @@ const Header =()=> {
     <p className="float header-text-style2"><span className="orange">Junior</span> Webdeveloper és Designer</p>
     </div>
     </div>)
+    }
 }
 
 export default Header;

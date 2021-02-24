@@ -1,14 +1,19 @@
 import React from "react";
 import "./Work.css";
+import ScrollAnimation from 'react-animate-on-scroll';
 
-const Work =()=> {
-    return (<div className="div-work">
+class Work extends React.Component {
+    render() {
+    return (
+    <ScrollAnimation animateIn="fadeIn" animateOnce="true" duration="2" offset="0">
+    <div className="div-work">
     <h1 className="work-title">Tanulmányok  -  Munkahelyek</h1>
     <div className="grid">
     <div><span className="grid-title">Tanulmányok</span></div>
     <div></div>
     <div><span className="grid-title">Munahelyek</span></div>
     </div>
+
 
     <div className="grid">
         <div className="grid-name">
@@ -134,7 +139,11 @@ szerverek beüzemelése. Telefonos, online, vagy személyes hiba elhárítás
         </div>
     </div>
 
-    </div>)
+    </div>
+    </ScrollAnimation>
+    
+    )
+}
 }
 
 export default Work;

@@ -1,10 +1,15 @@
 import React from "react";
 import "./Skill.css";
-import skillpicture from "./SkillPicture2.jpg";
+import skillpicture from "./SkillPicture.jpg";
+import ScrollAnimation from 'react-animate-on-scroll';
 
-const Skill =()=> {
- return (<div className="skill-div">
+class Skill extends React.Component {
+   render() {
+ return (
+   <ScrollAnimation animateIn="fadeIn" animateOnce="true" duration="2">
+   <div className="skill-div">
     <img src={skillpicture} className="skillpicture"></img>
+    
     <div>
    <p className="skill-p">Tech skill</p>
    </div>
@@ -42,7 +47,10 @@ const Skill =()=> {
          </tr>
       </table>
    </div>
- </div>)
+   
+ </div>
+ </ScrollAnimation>)
+   }
 }
 
 export default Skill;
