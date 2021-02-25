@@ -12,7 +12,7 @@ class Personalbottom extends React.Component {
     <ScrollAnimation animateIn="fadeIn" animateOnce="true" duration="3">
     <span><AccountCircleIcon className="icon"/></span>
     <h4>Érdeklődés</h4>
-    <p>Programozás, érdekelt mindig is ,hogy mi miért mükődik , anno ez kezdődött a hardwarekkel, és folytatódott a programozással, nagyon megszerettem a webfejlesztést, és amikor csak időm engedi fejlesztem magam és tanulok, hogy jobb lehessek.</p>
+    <p>Programozás érdekelt mindig is, hogy mi miért működik. Anno ez kezdődött a hardverekkel és folytatódott a programozással. Nagyon megszerettem a webfejlesztést és amikor csak időm engedi fejlesztem magam és tanulok, hogy minél jobb lehessek ezen a területen.</p>
     </ScrollAnimation>
     </div>
 
@@ -20,7 +20,7 @@ class Personalbottom extends React.Component {
     <ScrollAnimation animateIn="fadeIn" animateOnce="true" duration="3">
     <span><ContactsIcon className="icon"/></span>
     <h4>Elérhetőség</h4>
-    <p>Magyarország, Budapest. Mobilis vagyok, nem okoz problémát az utazás, és a távolság, preferálom a kerékpáros közlekedést, ha tehetem mindenhova azzal megyek. De 2021-ben a leggyorsabb elérhetőség az <a href="mailto:dalocsagabor@outlook.com" className="email">email</a> !</p>
+    <p>Magyarország, Budapest. Teljesen mobilis vagyok, egyáltalán nem okoz problémát az utazás és a távolság. Preferálom a kerékpáros közlekedést, ha tehetem mindenhova azzal megyek. De 2021-ben a leggyorsabb elérhetőség az <a href="mailto:dalocsagabor@outlook.com" className="email">email</a> !</p>
     </ScrollAnimation>
     
     
@@ -30,7 +30,7 @@ class Personalbottom extends React.Component {
     <ScrollAnimation animateIn="fadeIn" animateOnce="true" duration="3">
     <span><DirectionsBikeIcon className="icon"/></span>
     <h4>Hobbi</h4>
-    <p>Aktív kikapcsolódást részesítem előnyben, szeretek kerékpározni, szeretem a természetetet és a víz közelségét ebből kifolyólag szeretek horgászni, ha adrenalin bombára vágyok, akkor airsoft és paintballozok a barátokkal, mind emelett makettezek is, ahol kiélhetem creativításomat.</p>
+    <p>Aktív kikapcsolódást részesítem előnyben, szeretek kerékpározni, szeretem a természetetet és a víz közelségét. Ebből kifolyólag szeretek horgászni, viszont ha adrenalin bombára vágyok, akkor airsoft és paintballozok a barátokkal, mindemellett makettezek is, ahol kiélhetem kreativitásomat.</p>
     </ScrollAnimation>
     </div>
 
