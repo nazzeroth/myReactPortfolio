@@ -4,7 +4,7 @@
     height: auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding-bottom: 70px;
+    padding-bottom: 4.375rem;
     box-shadow: 
         inset 0px -11px 8px -10px #CCC; 
 }

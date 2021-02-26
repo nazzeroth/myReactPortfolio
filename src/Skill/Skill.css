@@ -19,7 +19,7 @@
     left: 65%;
     transform: translate(-50%, -50%);
     font-size: 3.5rem;
-    padding-bottom: 50px;
+    padding-bottom: 3.125rem;
 }
 
 .table {
@@ -38,7 +38,4 @@ td {
     white-space: nowrap;
 }
 
-.td-inherit {
-    padding-left: 50px !important;
-}
 

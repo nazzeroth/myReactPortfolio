@@ -3,6 +3,10 @@ import "./Work.css";
 import ScrollAnimation from 'react-animate-on-scroll';
 
 class Work extends React.Component {
+
+
+
+
     render() {
     return (
     <ScrollAnimation animateIn="fadeIn" animateOnce="true" duration="2" offset="0">

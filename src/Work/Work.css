@@ -2,13 +2,13 @@
     background-color: #e5e5e5;
     max-width: auto;
     height: auto;
-    box-shadow: 
+    box-shadow:
         inset 0px 11px 8px -10px #CCC,
-        inset 0px -11px 8px -10px #CCC; 
+        inset 0px -11px 8px -10px #CCC;
 }
 
 .work-title {
-    padding-top:60px;
+    padding-top:3.75rem;
     margin: 0;
     text-align: center;
 }
@@ -16,7 +16,7 @@
 .grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    padding-bottom: 40px;
+    padding-bottom: 2.5rem;
 }
 
 .grid > div {
@@ -34,22 +34,21 @@
 
   .grid-name{
       text-align: left !important;
-      padding-left: 100px;
-      /*padding-right: 50px;*/
+      padding-left: 6.25rem;
   }
 
   .grid-leiras {
     text-align: left !important;
-    padding-right: 100px;
+    padding-right: 6.25rem;
     
   }
 
   .date-underline {
-    padding-bottom: 10px;
+    padding-bottom: 0.625rem;
     border-bottom: 3px solid black;
   }
 
   .leiras-line {
     border-left: 3px solid black;
-    padding-left: 20px;
+    padding-left: 1.25rem;
   }

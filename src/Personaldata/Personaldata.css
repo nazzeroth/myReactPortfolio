@@ -5,18 +5,18 @@
     text-align: center;
     font-weight: 1.5;
     font-size: 1.3rem;
-    padding-top: 5em;
-    padding-left: 20em;
-    padding-right: 20em;
-    padding-bottom: 7em;
+    padding-top: 5rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    padding-bottom: 7rem;
     line-height: 1.5;
     box-shadow:
     inset 0px 11px 8px -10px #CCC,
 }
 
 h1 {
-    padding-top: 4em;
-    padding-bottom: .50em;
+    padding-top: 4rem;
+    padding-bottom: .50rem;
 }
 
 h3 {

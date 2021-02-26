@@ -17,32 +17,30 @@ class Skill extends React.Component {
       <table className="table">
          <tr>
             <td>Soft skill:</td>
-            <td>Tervezési készség, Rugalmasság, Kommunikáció, Monotonítás tűrés, Precizítás</td>
+            <td>Tervezési készség, Rugalmasság, Kommunikáció,</td>
          </tr>
-         
-         
          <tr>
-            <td>Hard skill</td>
             <td></td>
+            <td> Monotonítás tűrés, Precizítás</td>
          </tr>
          <tr>
-            <td className="td-inherit">Backend:</td>
+            <td>Backend:</td>
             <td>C#, JavaScriptm, NodeJs/ExpressJs</td>
          </tr>
          <tr>
-            <td className="td-inherit">Frontend:</td>
+            <td>Frontend:</td>
             <td>HTML5/CSS3, ReactJS, BootStrap, jQuery, Ajax</td>
          </tr>
          <tr>
-            <td className="td-inherit">Verziókezelés:</td>
+            <td>Verziókezelés:</td>
             <td>Git, GitHub, SvN</td>
          </tr>
          <tr>
-            <td className="td-inherit">Adatbázis kezelés:</td>
+            <td>Adatbázis kezelés:</td>
             <td>MySQL/MsSQL, NoSQL/MongoDB</td>
          </tr>
          <tr>
-            <td className="td-inherit">Rendszerismeret:</td>
+            <td>Rendszerismeret:</td>
             <td>Windows, Linux/Unix/bash</td>
          </tr>
       </table>
